@@ -1,0 +1,9 @@
+A
+A B 2
+B C 3
+C D 4
+A D 5
+B Z 4
+Z G 6
+B G 3
+G Q 1
